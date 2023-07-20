@@ -13,7 +13,7 @@ Uma clinica de Nutrição e Saúde deseja disponibilizar um e-book aos seus segu
 > Na opção 1 - O usuário faz seu cadastro com nome, data de nascimento, cidade, peso, altura, email e telefone. 
 
 >Na opção 2 - O sistema solicita o login(1234) e senha(1234) na Área Restrita e mostra a lista completa de cadastros com nome, idade e imc.
-             O profissional pode fazer uma pesquisa detalhada com o código do usuário mostrando mais dados e idade e imc.
+             O profissional pode fazer uma pesquisa detalhada com o código do usuário mostrando todos os dados.
 
 >Na opção 3 - O sistema é encerrado.
 
