@@ -104,7 +104,7 @@ class Usuario:
                 print(f'{"":<45}Peso inválido. Digite novamente.')
         while True:
             try:
-                self.__altura = float(input(f'{"":<45}Altura(kg): '))
+                self.__altura = float(input(f'{"":<45}Altura(m): '))
                 break
             except KeyboardInterrupt:
                 break
@@ -168,6 +168,3 @@ class Usuario:
                 return ano_atual - ano_nasc
         except:
             return 'ERRO ANO'
-# Programa Principal
-
-
